@@ -5,6 +5,7 @@ I'm a
   + Vue
   + NodeJS
   + MongoDB
++ CSS grinnnnnder
 + Java developer
 + Python hater/data scientist
   + Tensorflow
